@@ -6,9 +6,9 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-simanto4321-181717?logo=github)](https://github.com/simanto4321)
 [![Email](https://img.shields.io/badge/msimanto46%40gmail.com-ea4335?logo=gmail&logoColor=white)](mailto:msimanto46@gmail.com)
-[![Portfolio](https://img.shields.io/badge/6%20flagship%20repos%20·%202026-0ea5e9)](https://github.com/simanto4321?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/11%20repos%20·%202026-0ea5e9)](https://github.com/simanto4321?tab=repositories)
 
-I ship end-to-end systems across **data quality, NL→SQL agents, multi-agent ops, forecasting, streaming fraud detection, and Postgres capacity planning** — with tests, CI, Docker, architecture docs, and live dashboards.
+I built end-to-end systems across **data quality, NL→SQL agents, multi-agent ops, forecasting, streaming fraud detection, Postgres capacity planning, n8n business automation, and AI-powered revenue ops** — with tests, CI, Docker, architecture docs, and live dashboards.
 
 </div>
 
@@ -44,7 +44,19 @@ I ship end-to-end systems across **data quality, NL→SQL agents, multi-agent op
 
 ---
 
-## Also shipping
+## AI-Powered Projects (built with Cursor + Claude)
+
+| Project | What it proves | Stack | AI Tool |
+|---------|----------------|-------|---------|
+| [**n8n Business Ops Kit**](https://github.com/simanto4321/n8n-business-ops-kit) | 3 portable n8n workflows — lead routing, invoice validation, SLA orchestration | n8n · Node.js | Cursor + Claude |
+| [**Cursor Invoice Auditor**](https://github.com/simanto4321/cursor-invoice-auditor) | CSV invoice audit dashboard with 5 rule checks | React/TS · Vite | Cursor |
+| [**Claude Contract Intelligence**](https://github.com/simanto4321/claude-contract-intelligence) | Contract risk review engine with NLP-style clause scanning | Python · FastAPI · React/TS | Claude-style simulation |
+| [**Codex Ops Control Plane**](https://github.com/simanto4321/codex-ops-control-plane) | Event-driven ops policy engine with real-time dashboard | TypeScript · Fastify | Codex-style simulation |
+| [**AI Revenue Ops Agent**](https://github.com/simanto4321/ai-revenue-ops-agent) | 5-in-1 AI agent — outreach, sales, receptionist, marketing, cold email | React/TS · Vite | Cursor + Claude |
+
+---
+
+## Also built
 
 | Repository | Focus |
 |------------|--------|
