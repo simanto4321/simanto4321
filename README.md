@@ -6,11 +6,39 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-simanto4321-181717?logo=github)](https://github.com/simanto4321)
 [![Email](https://img.shields.io/badge/msimanto46%40gmail.com-ea4335?logo=gmail&logoColor=white)](mailto:msimanto46@gmail.com)
-[![Portfolio](https://img.shields.io/badge/11%20repos%20·%202026-0ea5e9)](https://github.com/simanto4321?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/21%20repos%20·%202026-0ea5e9)](https://github.com/simanto4321?tab=repositories)
+[![Practical Projects](https://img.shields.io/badge/Practical%20Problem%20Solved-19%20projects-22c55e)](https://github.com/simanto4321/practical-problem-solved)
 
 I built end-to-end systems across **data quality, NL→SQL agents, multi-agent ops, forecasting, streaming fraud detection, Postgres capacity planning, n8n business automation, and AI-powered revenue ops** — with tests, CI, Docker, architecture docs, and live dashboards.
 
 </div>
+
+---
+
+## Practical Problem Solved · 19 Projects
+
+**Monorepo:** [**practical-problem-solved**](https://github.com/simanto4321/practical-problem-solved) — real-world portfolio work across Software Engineering, AI/ML, Frontend, and Full-Stack.
+
+| Track | Count | Highlights |
+|-------|-------|------------|
+| Software Engineering | 5 | Expense API · URL Shortener · Contact Book (Java) · SaaS Task Manager · Event-Driven Order Saga |
+| AI / ML | 4 | House Price Predictor · Sentiment API · RAG Assistant · Multi-Agent Research |
+| Frontend | 4 | Design System · Analytics Dashboard · **3D Portfolio** · E-Commerce Storefront |
+| Full-Stack | 3 | Job Board · Blog CMS · Food Delivery |
+| Language Toolkits | 3 | Python · TypeScript · Java |
+
+Each project includes **flow diagrams**, **screenshots**, **demo videos**, tests, and `docs/PROCESS.md`.
+
+<p align="center">
+  <a href="https://github.com/simanto4321/practical-problem-solved">
+    <img src="https://raw.githubusercontent.com/simanto4321/practical-problem-solved/main/practical-problem-solved/frontend/03-3d-interactive-portfolio/docs/screenshots/01-main.png" width="48%" alt="3D Portfolio" />
+  </a>
+  <a href="https://github.com/simanto4321/practical-problem-solved/tree/main/practical-problem-solved/ai-ml/advanced/01-rag-document-assistant">
+    <img src="https://raw.githubusercontent.com/simanto4321/practical-problem-solved/main/practical-problem-solved/ai-ml/advanced/01-rag-document-assistant/docs/screenshots/01-main.png" width="48%" alt="RAG Assistant" />
+  </a>
+</p>
+
+> **Author:** Mehedi Ashraf Simanto · MIT · sole contributor on all repos.
 
 ---
 
